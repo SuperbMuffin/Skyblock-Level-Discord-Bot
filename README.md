@@ -24,5 +24,5 @@ Skyblock Role Bot is a Discord bot that assigns roles to users based on their Sk
 ## Future Enhancements
 - I dont know figure it out yourself
 ## Contributors
-SuperbMuffin - Initial development
+@SuperbMuffin - Initial development
 
