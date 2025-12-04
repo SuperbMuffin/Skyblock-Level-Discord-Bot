@@ -1,5 +1,9 @@
 # Skyblock Role Bot
 
+# WARNING
+Using this is probably not a good idea. I made this quite a while ago, and it sucks.
+
+
 ## Overview
 Skyblock Role Bot is a Discord bot that assigns roles to users based on their Skyblock level in Hypixel Skyblock. Users can register their Minecraft name using the `/form` command, and when the `/update` command is run, the bot updates roles accordingly.
 
